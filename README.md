@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 # 💫 About Me:
-I'm a Pre-Final year student pursuing B.Tech in Computer Science at NIT Srinagar
+I'm a Final year student pursuing B.Tech in Computer Science at NIT Srinagar
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
