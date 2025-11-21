@@ -45,3 +45,5 @@ I'm a Final year student pursuing B.Tech in Computer Science at NIT Srinagar
 
 ## Visiters 
 [![](https://visitcount.itsvg.in/api?id=Dhruv-Bansal7&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Dhrv-Bansal7&color=blue)
+
